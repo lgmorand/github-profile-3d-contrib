@@ -1,5 +1,11 @@
 # Change Log
 
+## 2024-10-16, 0.8.1 release
+
+* add new settings:
+  - MAX_LANGUAGES
+  - IGNORE_LANGUAGES
+
 ## 2024-10-16, 0.8.0 release
 
 * change node version from  16 to 20
