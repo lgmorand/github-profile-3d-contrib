@@ -1,5 +1,10 @@
 # Change Log
 
+## 2024-10-16, 0.8.0 release
+
+* change node version from  16 to 20
+* updated NPM packages
+
 ## 2023-01-11, 0.7.1 release
 
 * Changed node version from 12 to 16.
